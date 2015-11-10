@@ -103,7 +103,7 @@ It's the long awaited day of interview prep, excited?! Good, because it'll be an
 
 ### Activities
 
-* Imposter Syndrome Video
+* [Imposter Syndrome](./Impostor_Syndrome.md)
 * [Negotiations](./Negotiations.md)
 * [White Boarding](./Whiteboarding.md)
 * [Mock Interviews](./Mock_Interviews.md)
