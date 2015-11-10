@@ -77,7 +77,6 @@ Welcome to Career Week! I'm excited to kick off this journey with you.
 ### Stretch Activities
 
 * [Personal Sites](./Personal_Site.md)
-* [Prep your Github for Employers](./Resources/github-overview_Josh's Version.pdf)
 
 
 ## Wednesday
