@@ -63,7 +63,7 @@ Welcome to Career Week! I'm excited to kick off this journey with you.
 ### Activities
 
 * [What's Your Story](./Your_Story.md)
-* [Resume Writing](./Resume.md)
+* [Resume Writing](./resume.md)
 * [Build Your LinkedIn](./LinkedIn.md)
 
 
