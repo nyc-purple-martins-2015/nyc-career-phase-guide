@@ -144,7 +144,7 @@ This morning we'll be practicing how we tell our stories. Then you'll have lunch
 * <a href="https://www.themuse.com/advice/how-to-follow-up-on-a-job-application-an-email-template">How to Follow Up on a Job Application</a>
 * <a href="https://www.themuse.com/advice/be-my-mentor-craft-the-perfect-email-to-someone-you-admire">Ask to be Mentored</a>
 * <a href="https://www.themuse.com/advice/how-to-ask-for-a-referral-an-email-template">How to Ask for a Referral</a>
-* Learn more about apprenticeships from our Chicago  co-Founder, Dave Hoover. A free version of his book on Apprenticeships can be found <a href="http://chimera.labs.oreilly.com/books/1234000001813/index.html">here</a>.
+* Learn more about apprenticeships from the Chicago  co-Founder, Dave Hoover. A free version of his book on Apprenticeships can be found <a href="http://chimera.labs.oreilly.com/books/1234000001813/index.html">here</a>.
 * If you're interested in Freelancing. Watch <a href="https://www.youtube.com/watch?v=iBXawlWroG8">this video</a> first.
 * Check in on <a href="https://www.google.com/calendar/embed?src=devbootcamp.com_3t7sqtcfo3uol2gj0o60r36r7g%40group.calendar.google.com&ctz=America/Chicago">Emily's Community Calendar</a> for upcoming events.
 * Following Career Week, there will be a six-session, alumni-run Whiteboarding Program. You will begin recieving emails from Glenna Mowry and Dalal Al Rays about the program.
