@@ -91,7 +91,7 @@ Today we'll be doing a lot of reviewing, workshop'ing, and self-guided work. You
 * [Finding New Opportunities](./Finding_Opportunities.md)
 * [Trello Board](add link)
 * [Boolean Searching](add link)
-* Dev Connect with Sarena
+* [Dev Connect with Sarena](./DevConnect.md)
 * Outreach/Introductions
 
 ### Prep for Tomorrow
