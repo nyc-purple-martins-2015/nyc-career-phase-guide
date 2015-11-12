@@ -129,6 +129,7 @@ This morning we'll be practicing how we tell our stories. Then you'll have lunch
 
 ### Activities
 
+* [Sample Interview Questions](./sample_interview_questions.md)
 * [What's Your Story, Continued](./Your_StoryII.md)
 
 ### Prep for Life After DBC
