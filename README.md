@@ -8,7 +8,7 @@ For Career Week to be most effective, you are expected to attend all Career Week
 
 A few things you’ll be accountable for completing: Graduate Information Form (pre-career week), the Career Week Feedback Form (after Career Week), and the Employment Verification Form (post-employment).
 
-Career Week runs from Monday to Friday the week after Graduation. Each day, Career Week starts at 10:00am and ends at 5:00pm with lunch running from 12:30 pm - 2:00 pm. Yes, we still participate in 2:00 pm standups.
+Career Week runs from Tuesday to Friday the week after Graduation. Each day, Career Week starts at 10:00am and ends at 5:00pm with lunch running from 12:30 pm - 2:00 pm. Yes, we still participate in 2:00 pm standups.
 
 ### Job Search Expectations
 If learning to code at DBC is like being in freefall, Career Week is like finally pulling the ripcord on your parachute. Coming out of the program and moving into a slower, less structured phase can be jarring.
