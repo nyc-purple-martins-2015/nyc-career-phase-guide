@@ -36,4 +36,3 @@ Here is a post I'd recommend reading, if you're having trouble getting started
 ### Sample Resume for an Entry-Level Developer:
 
  * Don't be afraid to think outside of the box...Check out this [epic resume.](http://www.rleonardi.com/interactive-resume/)
- * BUT if traditional is more your style, here's a more [traditional resume example](./Resources/Resumes Layout Example.pdf) a great example of your basic resume.
