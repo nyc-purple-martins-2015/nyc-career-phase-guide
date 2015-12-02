@@ -1,12 +1,12 @@
 ##Requesting a LinkedIn Request
 
 Below is a sample outreach to a mutual connection via LinkedIn. Each section is numbered to help guide you in all areas you should hit on
-1 - Start with the reason for your message
-2 - Then state the reason for the meeting/introduction
-3 - State you won't ask for a job
-4 - Make request mutually benefical (if possible)
-5 - Include your "Story"
-6 - Give your 1st degree an out
+* 1 - Start with the reason for your message
+* 2 - Then state the reason for the meeting/introduction
+* 3 - State you won't ask for a job
+* 4 - Make request mutually benefical (if possible)
+* 5 - Include your "Story"
+* 6 - Give your 1st degree an out
 
 1   “Hi John, I see that Susan Smith is in your first-degree network. I would very much appreciate an introduction to her for a 10 minute conversation.” 
  
