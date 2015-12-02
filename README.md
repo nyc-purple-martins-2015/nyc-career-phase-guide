@@ -87,8 +87,9 @@ Today we'll be doing a lot of reviewing, workshop'ing, and self-guided work. You
 ### Activities
 
 * [Peer Reviews - Resumes](./Peer_Reviews.md)
+* [Using Trello to find a job](https://medium.com/@joshmedeski/using-trello-to-find-a-job-724e92ee6635#.g0rckekag)
+* [Sample Trello Board - Job Search](https://trello.com/b/49XoJTS4/dbc-sf-sample-job-search-board)
 * [Finding New Opportunities](./Finding_Opportunities.md)
-* [Trello Board](add link)
 * [Boolean Searching](./Boolean_Searching.md)
 * [Dev Connect with Sarena](./DevConnect.md)
 * Outreach/Introductions
