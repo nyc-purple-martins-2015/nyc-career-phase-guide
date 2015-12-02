@@ -86,7 +86,7 @@ Today we'll be doing a lot of reviewing, workshop'ing, and self-guided work. You
 
 ### Activities
 
-* [Peer Reviews](./Peer_Reviews.md)
+* [Peer Reviews - Resumes](./Peer_Reviews.md)
 * [Finding New Opportunities](./Finding_Opportunities.md)
 * [Trello Board](add link)
 * [Boolean Searching](./Boolean_Searching.md)
