@@ -26,6 +26,7 @@ Below is a sample outreach to a mutual connection via LinkedIn. Each section is 
 
 * Maybe you barely know the person in your network who can introduce you
 * Less then steller confidence in how your first degree connection might represent you
+
 In these cases, you may want to send an email directly to the person with a subject line "Our mutual shared connection on LinkedIn"
 
 ## Array Intersection
