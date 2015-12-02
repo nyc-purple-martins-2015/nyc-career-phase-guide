@@ -92,7 +92,7 @@ Today we'll be doing a lot of reviewing, workshop'ing, and self-guided work. You
 * [Finding New Opportunities](./Finding_Opportunities.md)
 * [Boolean Searching](./Boolean_Searching.md)
 * [Dev Connect with Sarena](./DevConnect.md)
-* Outreach/Introductions
+* [Outreach/Introductions](outreach-intros.md)
 
 ### Prep for Tomorrow
 
