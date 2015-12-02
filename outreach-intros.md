@@ -22,6 +22,12 @@ Below is a sample outreach to a mutual connection via LinkedIn. Each section is 
  
 6   “If you feel that it may not be appropriate to pass on this request, I totally understand. Regardless, I hope we stay in touch. Let me know if there’s anything I can do for you.”
 
+### Consider contacting the person directly when
+
+* Maybe you barely know the person in your network who can introduce you
+* Less then steller confidence in how your first degree connection might represent you
+In these cases, you may want to send an email directly to the person with a subject line "Our mutual shared connection on LinkedIn"
+
 ## Array Intersection
 In ruby there's an array intersection operator. Try implementing it yourself using a brute force method with a time complexity of O(n^2), a method that uses hashes in unexpected ways with complexity of O(n) and a sorting solution with complexity of O(nlogn).
 
