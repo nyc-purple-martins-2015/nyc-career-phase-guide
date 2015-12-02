@@ -1,4 +1,4 @@
-##Requesting a LinkedIn Request
+##Requesting a LinkedIn Introduction
 
 Below is a sample outreach to a mutual connection via LinkedIn. Each section is numbered to help guide you in all areas you should hit on
 * 1 - Start with the reason for your message
@@ -29,47 +29,24 @@ Below is a sample outreach to a mutual connection via LinkedIn. Each section is 
 
 In these cases, you may want to send an email directly to the person with a subject line "Our mutual shared connection on LinkedIn"
 
-## Array Intersection
-In ruby there's an array intersection operator. Try implementing it yourself using a brute force method with a time complexity of O(n^2), a method that uses hashes in unexpected ways with complexity of O(n) and a sorting solution with complexity of O(nlogn).
+## Outreach to someone you met
 
-2.1.1 :009 > a = [ 1, 3, -4, 5, 6]; b = [2, 3, 4, 6, 77]
- => [2, 3, 4, 6, 77] 
-2.1.1 :010 > a & b
- => [3, 6]
+Some things to keep in mind with writing this email is
+* Use a meaningful subject line
+The subject line should capture the recepient's interest and give them a reason to open it. Make it specific and add a personal touch. Some examples are "Great meeting you at the XYZ Meetup" or "I thought you would find this article (topic spoke on) interesting
 
-Check out this <a href="http://www.sysexpand.com/?path=exercises/array-intersection">site</a> if you get stuck.
+Below is a sample outreach letter on followup with someone after a meeting
+* 1 - Use their name and state how nice it was to meet them
+* 2 - Reflect on a specific topic that was talked about in your meeting
+* 3 - Ask for a followup (if needed)
+* 4 - Close the conversation and thank them again
 
-### group_by in Ruby Enumerable
-In ruby there's a group_by method on Enumerable. Try implementing it yourself. Take some time to think on how to implement it. Don't worry if you can't recall the syntax for accepting blocks.
-
-(1..6).group_by { |i| i%3 }
- => {0=>[3, 6], 1=>[1, 4], 2=>[2, 5]}
+1   Hi John, It was nice meeting you at the career fair the other day. I really enjoyed our chat about your challenges finding the right candidates! I think I can help!
  
-### Scaling Interview Questions
-<a href="http://www.hiredintech.com/app#scalability-fundamentals">Scalability Fundamentals</a>
-
-### Great resources on Big-O Notation and interviewing
-<ul>
-<li><a href="http://www.restlessprogrammer.com/2013/09/hacking-coding-interview.html
-http://bigocheatsheet.com/">Hacking Coding Interview</a></li>
-<li><a href="http://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/">A Beginners Guide to Big O Notation</a></li>
-<li><a href="https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions">Five Essential Phone Screen Questions</a></li>
-<li>Cracking the Coding Interview [Book]</li>
-</ul>
-
-### Katas that you'll likely run into in an interview
-<ul>
-<li><a href="http://rubyquiz.strd6.com/quizzes/181-bowling-scores">Ruby Quiz Bowling Scores</a></li>
-<li><a href="http://rubyquiz.com/quiz11.html">Ruby Quix 11</a></li>
-<li><a href="http://rubyquiz.com/quiz22.html">Ruby Quiz 22</a></li>
-<li><a href="http://rubyquiz.com/quiz154.html">Ruby Quiz 154</a></li>
-</ul>
-
-### Great Series of lectures from Berkely on Data Structures
-<ul>
-<li><a href="https://www.youtube.com/watch?v=QMV45tHCYNI&list=PL4BBB74C7D2A1049C">Berkeley CS61B - Lecture</a></li>
-</ul>
-
-### An example of adding binary numbers via a wooden mechanical machine
-<ul>
-<li><a href="https://www.youtube.com/watch?v=4yBGbozevqs">Wooden Binary Adding Machine</a></li>
+2   I read your article about the challenges that companies face when hiring sales reps and you mentioned a few things that really resonated with me. I was hoping that we could connect when you have a few minutes to chat about the specific sales role that you’re looking to fill and explore how I can help you with that challenge.
+ 
+3   How does Wednesday at 10:00am or Thursday at 3:30pm work for you?
+ 
+4   Thank you john and I look forward to your reply
+       Best regards,
+       Steve
