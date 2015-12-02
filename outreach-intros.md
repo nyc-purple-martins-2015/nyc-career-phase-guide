@@ -1,5 +1,13 @@
 ##Requesting a LinkedIn Request
 
+Below is a sample outreach to a mutual connection via LinkedIn. Each section is numbered to help guide you in all areas you should hit on
+1 - Start with the reason for your message
+2 - Then state the reason for the meeting/introduction
+3 - State you won't ask for a job
+4 - Make request mutually benefical (if possible)
+5 - Include your "Story"
+6 - Give your 1st degree an out
+
 1   “Hi John, I see that Susan Smith is in your first-degree network. I would very much appreciate an introduction to her for a 10 minute conversation.” 
  
 2   “I noticed that Susan works in alumni relations at Ivy University. Over the long term, I’m very interested in making a move into higher education. I would welcome the opportunity to get Susan’s perspective on how the school is organized and where I might be able to add value down the road.”
@@ -14,7 +22,7 @@
  
 6   “If you feel that it may not be appropriate to pass on this request, I totally understand. Regardless, I hope we stay in touch. Let me know if there’s anything I can do for you.”
 
-### Array Intersection
+## Array Intersection
 In ruby there's an array intersection operator. Try implementing it yourself using a brute force method with a time complexity of O(n^2), a method that uses hashes in unexpected ways with complexity of O(n) and a sorting solution with complexity of O(nlogn).
 
 2.1.1 :009 > a = [ 1, 3, -4, 5, 6]; b = [2, 3, 4, 6, 77]
