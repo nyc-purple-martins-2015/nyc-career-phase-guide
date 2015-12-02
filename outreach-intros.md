@@ -1,5 +1,5 @@
-#Requesting a LinkedIn Request
-Hi John,
+##Requesting a LinkedIn Request
+
 1   “Hi John, I see that Susan Smith is in your first-degree network. I would very much appreciate an introduction to her for a 10 minute conversation.” 
  
 2   “I noticed that Susan works in alumni relations at Ivy University. Over the long term, I’m very interested in making a move into higher education. I would welcome the opportunity to get Susan’s perspective on how the school is organized and where I might be able to add value down the road.”
