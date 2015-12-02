@@ -1,5 +1,19 @@
-#Whiteboarding
-Whiteboarding is a big part of technical interviews. Here are some resources for you to practice shared with us via our Whiteboarding mentor, Phil Corliss.
+#Requesting a LinkedIn Request
+Hi John,
+1   “Hi John, I see that Susan Smith is in your first-degree network. I would very much appreciate an introduction to her for a 10 minute conversation.” 
+ 
+2   “I noticed that Susan works in alumni relations at Ivy University. Over the long term, I’m very interested in making a move into higher education. I would welcome the opportunity to get Susan’s perspective on how the school is organized and where I might be able to add value down the road.”
+ 
+3   “In the conversation I seek, I will not be asking Susan about job openings; Rather, I’m looking to gain her insight into Ivy and possibly other institutions of higher-ed.”
+ 
+4   “I believe this meeting will be mutually beneficial. Given my many years of experience in fundraising, I could share with Susan some ideas that she may find useful for her efforts.”
+ 
+5   “Susan may be interested to know that I have 10 years of experience in fundraising at non-profits, as is shown on my LinkedIn profile. During that time, I:
+·       Met or exceeded every annual fundraising goal for the past 10 years
+·       Planned and delivered dozens of successful events
+ 
+6   “If you feel that it may not be appropriate to pass on this request, I totally understand. Regardless, I hope we stay in touch. Let me know if there’s anything I can do for you.”
+
 ### Array Intersection
 In ruby there's an array intersection operator. Try implementing it yourself using a brute force method with a time complexity of O(n^2), a method that uses hashes in unexpected ways with complexity of O(n) and a sorting solution with complexity of O(nlogn).
 
