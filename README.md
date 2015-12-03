@@ -105,7 +105,7 @@ It's the long awaited day of interview prep, excited?! Good, because it'll be an
 ### Activities
 
 * [Imposter Syndrome](./Impostor_Syndrome.md)
-* [Negotiations](./Negotiations.md)
+* [Sample Interview Questions](./sample_interview_questions.md)
 * White Boarding
 * [Mock Interviews](./Mock_Interviews.md)
 
@@ -130,7 +130,7 @@ This morning we'll be practicing how we tell our stories. Then you'll have lunch
 
 ### Activities
 
-* [Sample Interview Questions](./sample_interview_questions.md)
+* [Negotiations](./Negotiations.md)
 * [What's Your Story, Continued](./Your_StoryII.md)
 
 ### Prep for Life After DBC
