@@ -106,8 +106,7 @@ It's the long awaited day of interview prep, excited?! Good, because it'll be an
 
 * [Imposter Syndrome](./Impostor_Syndrome.md)
 * [Sample Interview Questions](./sample_interview_questions.md)
-* White Boarding
-* [Mock Interviews](./Mock_Interviews.md)
+* Technical Interviewing with Erin
 
 
 ### Prep for Tomorrow
