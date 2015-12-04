@@ -129,6 +129,8 @@ This morning we'll be practicing how we tell our stories. Then you'll have lunch
 
 ### Activities
 
+* Submit Resume and Story for review leading to 1:1
+* Search job boards for 5 positions interested in. Track job posting, advocate/stake holder, website url, linkedIn info, etc
 * [Negotiations](./Negotiations.md)
 * [What's Your Story, Continued](./Your_StoryII.md)
 
